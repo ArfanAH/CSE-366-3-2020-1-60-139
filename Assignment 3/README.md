@@ -1,4 +1,4 @@
-# Assignment 1: Computer Vision: Image Classification using "Custom CNN Model" And "EfficientNet"
+# Assignment 3: Computer Vision: Image Classification using "Custom CNN Model" And "EfficientNet"
 This folder contains all the deliverables for the "Computer Vision: Image Classification using "Custom CNN Model" And "EfficientNet".
 ## Files
 - `cse366-asignment-3-computer-vision.ipynb`: The Jupyter notebook with the simulation implementation.
